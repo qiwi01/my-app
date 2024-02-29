@@ -19,7 +19,7 @@ function About() {
   
     return (
       <>
-      <Menu/>
+      {/* <Menu/> */}
       <Hero heading= "Welcome to About page" image = {img3}/>
         <div>
         <h1>Qiwi`s React App 1.0</h1>
